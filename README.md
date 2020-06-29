@@ -1,2 +1,2 @@
-# CPF-Valida-o
+# CPF-Validacao
 Validador simples CPF
